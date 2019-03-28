@@ -31,4 +31,12 @@ Umieszczenie linku:
 Przykład:
 [strona google](http://www.google.com "link do strony google")
 
+Umieszczenie w ramce kodu pythona:
+```python
+x = input("Wprowadź liczbę:")
+if x%2 == 0:
+  print "liczba parzysta"
+else:
+  print "liczba nieparzysta"```
+
 ```
