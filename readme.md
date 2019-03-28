@@ -1,6 +1,5 @@
 ## Plik readme.md
-Plik readme.md, to plik przeznaczony na dokumentację. 
-
+Plik readme.md, to plik przeznaczony na dokumentację.  
 Po otwarciu repozytorium na gicie wyświetlany jest domyślnie jako pierwszy. 
 
 ```
