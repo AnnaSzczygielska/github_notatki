@@ -37,7 +37,5 @@ x = input("Wprowadź liczbę:")
 if x%2 == 0:
   print "liczba parzysta"
 else:
-  print "liczba nieparzysta"
-```
-
+  print "liczba nieparzysta"```
 ```
