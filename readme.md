@@ -38,4 +38,17 @@ if x%2 == 0:
   print "liczba parzysta"
 else:
   print "liczba nieparzysta"```
+  
+> znak lini pionowej
+
+*** linia pozioma
+
+Budowanie tabeli:
+|pierwsza kolumna|druga kolumna|trzecia kolumna|
+|----------------|------------:|:-------------:|
+|            lewa|        prawa|         środek|
+|               a|            b|              c|
+|               x|            y|              z|
+
 ```
+
