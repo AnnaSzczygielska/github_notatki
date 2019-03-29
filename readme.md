@@ -31,6 +31,11 @@ Umieszczenie linku:
 Przykład:
 [strona google](http://www.google.com "link do strony google")
 
+Umieszczenie obrazu:
+![alt text](adres obrazu)
+Przykład:
+![alt text](https://image.flaticon.com/icons/svg/25/25231.svg)
+
 Umieszczenie w ramce kodu pythona:
 ```python
 x = input("Wprowadź liczbę:")
@@ -49,6 +54,7 @@ Budowanie tabeli:
 |            lewa|        prawa|         środek|
 |               a|            b|              c|
 |               x|            y|              z|
+
 
 ```
 
